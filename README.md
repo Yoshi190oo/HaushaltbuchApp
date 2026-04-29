@@ -1,4 +1,4 @@
-# zipを解凍してフォルダに入る
+
 cd haushaltsbuch
 npm install
 git init
